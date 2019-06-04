@@ -1,0 +1,81 @@
+body{
+    background: url("img/2010011711275743.jpg");
+}
+table{
+    margin: auto;
+    text-align: center;
+}
+#jjtable{
+    width: 75%;
+}
+
+#menu{
+	background:url(img/menu_bg.gif) repeat-x;
+	height:73px;
+    margin: auto;
+    text-align: center;
+}
+
+#nav{
+    margin: auto;
+}
+#bannerimg{
+    width: 100%;
+}
+img{
+    max-width:100%;
+    width:auto;
+    height:auto;
+    vertical-align:middle;
+    border:0;
+    -ms-interpolation-mode:bicubic;
+}
+
+#menu ul{
+	padding:0;
+	border:0;
+	list-style:none;
+	line-height:150%;
+}
+
+#nav li{
+    float: left;
+	height:35px;
+    text-align: center;
+    margin: 0 4.5%;
+}
+
+#nav li a{
+	float:left;
+	display:block;
+	padding-left:6px;
+	height:35px;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+#nav li a span{
+	float:left;
+	padding:11px 14px 1px 1px;
+	line-height:14px;
+	font-size:18px;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+#footer p{
+    margin-top: 35px;
+    color: gray;
+    text-align: center;
+    font-size: small;
+}
+
+#jjimg{
+    width: 50%;
+}
+#jjstr{
+    font-family: "华文新魏";
+    font-size: 20px;
+    color: blue;
+}
